@@ -1,0 +1,7 @@
+.DS_Store
+.ipynb_checkpoints
+4_data
+__MACOSX/
+concrete_data_week3
+concrete_data_week4
+classifier_resnet_model.h5
